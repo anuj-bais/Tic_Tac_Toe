@@ -30,7 +30,7 @@ tic-tac-toe/
 ```
 
 ## 📸 Screenshots
-![Game Screenshot](Start_SS.png)
+![Game Screenshot](Starting_SS.png)
 
 
 ## 🚀 Future Enhancements
