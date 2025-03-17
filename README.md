@@ -30,7 +30,14 @@ tic-tac-toe/
 ```
 
 ## 📸 Screenshots
+Here's a preview of the game:
+(Game Starting State)
+
 ![Game Screenshot](Starting_SS.png)
+
+(Winning State)
+
+![Game Screenshot](Win_SS.png)
 
 
 ## 🚀 Future Enhancements
